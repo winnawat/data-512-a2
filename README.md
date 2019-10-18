@@ -3,9 +3,12 @@ Repository DATA512 A2 assignment
 
 # Bias in data
 Win Nawat Suvansinpan
+10/17/2019
 
 # Goal
 The goal of this assignment is to look at Wikipedia articles on political figures from different countries while focusing on the bias within data. This is done by measuring the coverage and quality of Wikipedia articles on politicians across different countries.
+
+[Course wiki](https://wiki.communitydata.science/Human_Centered_Data_Science_(Fall_2019)/Assignments#A2:_Bias_in_data)
 
 The quality aspect of the articles are given by [ORES](https://www.mediawiki.org/wiki/ORES) ("Objective Revision Evaluation Service") which predicts the quality of an article at a particular point in time through machine learning.
 
