@@ -36,6 +36,8 @@ The following Python packages were used and their documentation can be found at 
   - Generated from the results of API calls appended together to obtain the prediction data for Wikipedia articles used in this exercise.
 - wp_wpds_countries-no_match.csv
   - A table containing countries with no matching article and population data.
+- wp_wpds_politicians_by_country.csv
+  - A table containing the article name, country, revision_id, article quality, and the country's population.
 
 # Visualizations
 
