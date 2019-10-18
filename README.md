@@ -12,6 +12,8 @@ The goal of this assignment is to look at Wikipedia articles on political figure
 
 The quality aspect of the articles are given by [ORES](https://www.mediawiki.org/wiki/ORES) ("Objective Revision Evaluation Service") which predicts the quality of an article at a particular point in time through machine learning.
 
+Coverage is defined by the number of politician articles per country population.
+
 # Data sources
 Data used in this exercise are:
 - Politicians by Country from the English-language Wikipedia
