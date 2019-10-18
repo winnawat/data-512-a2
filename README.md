@@ -34,6 +34,8 @@ The following Python packages were used and their documentation can be found at 
 # Files created
 - predictions.csv
   - Generated from the results of API calls appended together to obtain the prediction data for Wikipedia articles used in this exercise.
+- wp_wpds_countries-no_match.csv
+  - A table containing countries with no matching article data
 
 # Visualizations
 
