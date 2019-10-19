@@ -41,5 +41,8 @@ The following Python packages were used and their documentation can be found at 
 - `wp_wpds_politicians_by_country.csv`
   - A table containing the article name, country, revision_id, article quality, and the country's population.
 
+# Conclusion
+The measure of coverage and quality of Wikipedia articles on a country's politician is a rather noisy one. There are several sources of bias that researches should keep in mind. Also, there are other confounding variables that could affect the coverage and quality value too. Still, some interesting insights on political climate and internet usage can be drawn from this analysis, but for a more concrete study, more information such as a country's internet access, main language, and urban population should be included.
+
 # License
 This assignment code is released under MIT license
