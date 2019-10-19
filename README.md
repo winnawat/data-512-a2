@@ -4,6 +4,8 @@ Repository DATA512 A2 assignment
 # Bias in data
 Win Nawat Suvansinpan
 10/17/2019
+- Main notebook: DATA512-A2.ipynb
+- PDF version of the notebook: DATA512-A2-pdf.pdf
 
 # Goal
 The goal of this assignment is to look at Wikipedia articles on political figures from different countries while focusing on the bias within data. This is done by measuring the coverage and quality of Wikipedia articles on politicians across different countries.
