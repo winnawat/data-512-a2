@@ -41,7 +41,5 @@ The following Python packages were used and their documentation can be found at 
 - `wp_wpds_politicians_by_country.csv`
   - A table containing the article name, country, revision_id, article quality, and the country's population.
 
-# Visualizations
-
 # License
 This assignment code is released under MIT license
